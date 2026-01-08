@@ -1,0 +1,5 @@
+{
+  "name": "DLR Planning Validator",
+  "description": "An AI-powered assistant for architects to validate planning applications against Dun Laoghaire-Rathdown regulations.",
+  "requestFramePermissions": []
+}
